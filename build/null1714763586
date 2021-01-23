@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.4
+Created-By: 11.0.9+7-LTS (Oracle Corporation)
+Codebase: C:\Users\snaker\Documents\NetBeansProjects\Proyecto practicu
+ m 2\dist
+Application-Library-Allowable-Codebase: C:\Users\snaker\Documents\NetB
+ eansProjects\Proyecto practicum 2\dist
+Caller-Allowable-Codebase: C:\Users\snaker\Documents\NetBeansProjects\
+ Proyecto practicum 2\dist
+Permissions: sandbox
+Application-Name: Practicum2proyect
+
