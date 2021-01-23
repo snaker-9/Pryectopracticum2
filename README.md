@@ -5,7 +5,7 @@ Sofware par Registro Persona contagiadas de Covid-19 <
    UTPL  **Proyecto Practicum 2** --Wilson Carrion-- 5°Ciclo Informatica--
  --Oct 2020 --Feb 2021
              
-   "Pequeño software que permite regitrar, localizar y representar personas\n"
+   Pequeño software que permite regitrar, localizar y representar personas
    contagiadas de COVID19.
    
    
