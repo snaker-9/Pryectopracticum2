@@ -10,4 +10,6 @@ Sofware par Registro Persona contagiadas de Covid-19 <
    
    
    Map: https://mapcovi.rf.gd/
-                
+   
+   
+    Codigo cunstruido (jAR APP)https://drive.google.com/file/d/1E_3SFGU1ZXAjtsnadhSBnn4BGXWNOQ0r/view?usp=sharing
